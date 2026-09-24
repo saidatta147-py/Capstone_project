@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data_pipeline/output/*.db
+data_pipeline/output/*.csv
+analytics/output/*.png
+analytics/output/*.joblib
+support_assistant/chroma_db/
+.env
